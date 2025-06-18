@@ -1,0 +1,5 @@
+# version
+.nvmrc
+
+# dependencies
+node_modules/
